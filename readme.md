@@ -11,7 +11,7 @@ GitHub URL
 https://github.com/17patelumang/EventRec
 
 
-Youtube URL
+Video URL
 -----------
 http://www.screencast.com/t/PfypjGh3PA
 
